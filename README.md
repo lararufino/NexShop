@@ -1,7 +1,4 @@
-Com certeza! Aqui está um README para o seu projeto NexShop, formatado para o GitHub:
-
----
-
+ 
 # NexShop - Backend API
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=nodedotjs)
